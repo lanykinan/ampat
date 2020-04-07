@@ -1,0 +1,60 @@
+{
+        "ampat":[
+        {
+        "id":"01",
+        "title":"Misool",
+        "lat":"-1.8947005",
+        "lng":"130.0748562",
+        "foto": "https://i.imgur.com/rY5gV4X.jpg",
+        "deskripsi": "Selami setiap relung perairan di salah satu dari empat pulau besar di Raja Ampat ini dan kamu akan mendapati pemandangan, yang tidak hanya luar biasa, tapi juga istimewa."
+    }, {
+        "id":"02",
+        "title":"Star Lagoon",
+        "lat":"-0.5673333",
+        "lng":"130.2688814",
+        "foto": "https://i.imgur.com/ptD0Ltc.jpg",
+        "deskripsi": "laguna berbentuk bintang di Raja Ampat, tepatnya di pulau Pianemo. Pemandangan dari bukit karangnya saja sudah menggambarkan betapa indahnya tempat ini."
+    }, {
+        "id":"03",
+        "title":"Batu Pensil",
+        "lat":"-0.3122642",
+        "lng":"130.6211157",
+        "foto": "https://i.imgur.com/6xSLZMN.jpg",
+        "deskripsi": "Saking terkenalnya, Batu Pensil selalu menjadi jujukan untuk berfoto. Kamu tidak boleh melewatkan spot ini bila liburan ke Raja Ampat, ya!"
+    }, {
+        "id":"04",
+        "title":"Wayag",
+        "lat":"0.1682975",
+        "lng":"130.0173248",
+        "foto": "https://i.imgur.com/fkQ4yU1.jpg",
+        "deskripsi": "Wayag juga termasuk salah satu ikonnya Raja Ampat. Jejeran batu karang berbalut warna hijau di tengah lautan biru yang menyajikan panorama luar biasa indah membuat Raja Ampat begitu mendunia."
+    }, {
+        "id":"05",
+        "title":"Desa Arborek",
+        "lat":"-0.5187961",
+        "lng":"130.3596311",
+        "foto": "https://i.imgur.com/JqjFWGg.jpg",
+        "deskripsi": "Jika kamu ingin bertemu dengan warga lokal, sekaligus menikmati panorama yang indah, Pulau Arborek adalah yang harus kamu kunjungi. Hampir semua warganya memiliki keramahan dan senyuman yang lebar, siap menyambut dengan tangan terbuka siapa pun yang datang ke kampung mereka."
+    }, {
+        "id":"06",
+        "title":"Pasir Timbul",
+        "lat":"-0.550014",
+        "lng":"130.671213",
+        "foto": "https://i.imgur.com/1HuvW04.jpg",
+        "deskripsi": "Alam Raja Ampat yang sudah luar biasa masih ditambahi dengan keajaiban yang istimewa, pasir timbul. Lokasi ini akhirnya menjelma menjadi sebuah pulau pasir, yang lokasinya berada dekat dengan Pulau Mansuar."
+    }, {
+        "id":"07",
+        "title":"Desa Wisata Sauwandarek",
+        "lat":"-0.5903592",
+        "lng":"130.6001211",
+        "foto": "https://i.imgur.com/K86Tq5K.jpg",
+        "deskripsi": "Satu lagi desa wisata Raja Ampat yang boleh kamu kunjungi – Desa Sauwandarek. Kearifan lokal yang ditunjukkan warganya membuat kamu mungkin malas pulang."
+    }, {
+        "id":"08",
+        "title":"Desa Sawinggrai",
+        "lat":"-0.4819231",
+        "lng":"130.5399846",
+        "foto": "https://i.imgur.com/A53PebG.jpg",
+        "deskripsi": "Nah, bagi kamu yang ingin melihat hewan asli Papua, burung Cenderawasih, di habitat aslinya, langsung saja menuju ke desa Sawinggrai. Namun kamu harus rela bangun awal dan menyiapkan celana panjang serta sepatu serta tidak berisik untuk bisa mendapatkan keberuntungan menyaksikan burung Cenderawasih ini."
+    }]
+}
